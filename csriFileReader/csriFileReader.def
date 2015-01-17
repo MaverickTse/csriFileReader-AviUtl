@@ -1,0 +1,3 @@
+LIBRARY csriFileReader
+EXPORTS
+	GetInputPluginTable @1
